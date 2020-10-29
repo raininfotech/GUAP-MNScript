@@ -1,0 +1,7 @@
+COIN_NAME="guapcoin"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="guapcoind"
+COIN_CLI="guapcoin-cli"
+COIN_FOLDER="/root/.guapcoin"
+COIN_CONFIG="guapcoin.conf"
+COIN_SERVICE="guapcoin.service"
